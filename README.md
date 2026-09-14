@@ -1,2 +1,2 @@
 # demo
-thus us my README text
+this is my README text
